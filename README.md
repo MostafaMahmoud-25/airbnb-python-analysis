@@ -4,7 +4,7 @@
 This project explores Airbnb listing data to identify pricing trends and availability patterns. Since the dataset was provided by my university and is too large for direct upload, this repository contains the analysis code and a full static report of the findings.
 
 ## 📊 View the Full Report
-**[Click here to view the Interactive HTML Report](https://mostafamahmoud-25.github.io/airbnb-python-analysis/Analysis assignment.html)**
+**[Click here to view the Interactive HTML Report](https://mostafamahmoud-25.github.io/airbnb-python-analysis/Airbnb_Analysis_Report.html)**
 *(Note: Use this link to see all charts, maps, and statistical outputs without running any code.)*
 
 ## Key Technical Tasks
