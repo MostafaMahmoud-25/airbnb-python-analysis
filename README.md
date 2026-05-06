@@ -5,7 +5,6 @@ This project explores Airbnb listing data to identify pricing trends and availab
 
 ## 📊 View the Full Report
 **[Click here to view the Interactive HTML Report](https://mostafamahmoud-25.github.io/airbnb-python-analysis/Airbnb_Analysis_Report.html)**
-*(Note: Use this link to see all charts, maps, and statistical outputs without running any code.)*
 
 ## Key Technical Tasks
 * **Data Cleaning:** Handled missing values in price and neighborhood data using Pandas.
